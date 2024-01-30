@@ -3,7 +3,7 @@ Installation of Docker
 
 create an ubuntu EC2 instance on AWS.<br>
 Open Terminal, login into the instance<br> 
-```ssh -i "key name" ubuntu @ec2instace_publicIp```<br>
+```ssh -i "key name" ubuntu@ec2instace_publicIp```<br>
 
 and run the below commands to install docker<br>
 ```sudo apt update```<br>
